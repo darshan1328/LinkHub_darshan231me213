@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="link.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bungee+Tint&display=swap" rel="stylesheet">
+    
+    <title>LinkHub</title>
+    
+</head>
+<body>
+    
+    <div class="container">
+        <h1>LinkHub</h1>
+        <img src="NITK_Emblem-300x283.webp" alt="NITK logo" style="width:100px;height:100px;">
+        
+        
+        <input type="text" id="Link" placeholder="Enter Your Link">
+        <input type="text" id="LinkTag" placeholder="Enter Link Tag">
+        <button onclick="addLink()" id="sendRequestButton">ADD</button>
+        <button class="toggle-button" onclick="toggleMode()">Toggle Dark/Light Mode</button> <br>
+        <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names.." title="Type in a name">
+        
+
+        <a>My Links</a>
+        <table>
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Link </th>
+                    
+                    <th>Tag </th>
+                    
+                    <th>ACTIONS</th>
+                </tr>
+            </thead>
+            <div class="draggable">
+
+                <tbody id="LinkTable">
+
+                </tbody>
+            </div>
+        </table>
+    </div>
+    <script src="link.js"></script>
+    
+    
+</body>
+</html>
