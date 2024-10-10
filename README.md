@@ -53,7 +53,9 @@ Open **link.html** file in your browser to view the application
 4. **Dark Mode**: There is an option for viewing your page on dark mode or light mode.
 ## Demo
 
-Insert gif or link to demo
+Video link of running the application:
+
+https://drive.google.com/drive/folders/11k3Fv7gf6QIqED96eJecB8zoNNw9qOyE?usp=sharing
 
 
 ## Documentation
