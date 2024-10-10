@@ -15,6 +15,7 @@ LinkHub is a landing page designed to help users manage and organize their links
 - **User-friendly Interface**: Simple and  intuitive design for easy navigation.
 - **Link Categorization**(Tagging): Organize links into different categories for better management.
 - **Search Functionality**: Quickly find saved links using the search feature.
+- **Dark-Mode**: You can toggle between light mode and dark mode.
 
 
 
