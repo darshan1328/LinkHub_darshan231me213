@@ -1,3 +1,4 @@
+wec assignment
 # LinkHub
 
 LinkHub is a landing page designed to help users manage and organize their links effictently. Built with a clean and intuitive interface, LinkHub makes it easy to save, tag and access your favorite websites.
