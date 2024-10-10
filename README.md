@@ -23,6 +23,8 @@ LinkHub is a landing page designed to help users manage and organize their links
 
 ## Installation
 
+![Video in Beige Brown Modern Elegance Style](https://github.com/user-attachments/assets/f5e938a9-5906-4bbb-ba23-1bd0e648901a)
+
 Clone the project
 
 ```bash
