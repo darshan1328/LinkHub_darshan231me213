@@ -63,6 +63,8 @@ https://drive.google.com/drive/folders/11k3Fv7gf6QIqED96eJecB8zoNNw9qOyE?usp=sha
 [Documentation](https://linktodocumentation)
 
 https://www.w3schools.com/html/
+https://www.w3schools.com/css/
+https://www.w3schools.com/js
 
 
 ## Feedback
