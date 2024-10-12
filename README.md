@@ -73,7 +73,11 @@ https://drive.google.com/drive/folders/11k3Fv7gf6QIqED96eJecB8zoNNw9qOyE?usp=sha
 ![image](https://github.com/user-attachments/assets/7c5f2f27-9571-4e0b-aa8d-2059bfe0cd9e)  ![image](https://github.com/user-attachments/assets/e345e482-3b60-4ec5-84da-21e1891693e1)
 
 
+# Future Improvements
 
+- Improve the User-Interface by using technologies like React, Tailwind.
+- Will bring authentication page for better security of your links.
+- New feature of hiding your private links.
 
 ## Feedback
 
