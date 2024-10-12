@@ -36,7 +36,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd LinkHub_darshan231me213
 ```
 
 Open **link.html** file in your browser to view the application
@@ -64,9 +64,9 @@ https://drive.google.com/drive/folders/11k3Fv7gf6QIqED96eJecB8zoNNw9qOyE?usp=sha
 
 [Documentation](https://linktodocumentation)
 
-https://www.w3schools.com/html/
-https://www.w3schools.com/css/
-https://www.w3schools.com/js
+- **HTML :** https://developer.mozilla.org/en-US/docs/Web/HTML
+- **CSS :** https://developer.mozilla.org/en-US/docs/Web/CSS
+- **JavaScript :** https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
 
 ## Feedback
