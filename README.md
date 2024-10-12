@@ -62,8 +62,6 @@ https://drive.google.com/drive/folders/11k3Fv7gf6QIqED96eJecB8zoNNw9qOyE?usp=sha
 
 ## Documentation
 
-[Documentation](https://linktodocumentation)
-
 - **HTML :** https://developer.mozilla.org/en-US/docs/Web/HTML
 - **CSS :** https://developer.mozilla.org/en-US/docs/Web/CSS
 - **JavaScript :** https://developer.mozilla.org/en-US/docs/Web/JavaScript
